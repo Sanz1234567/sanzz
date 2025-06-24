@@ -1,5 +1,5 @@
 {
-"moderator": [
+"tokens": [
     "{",    
    "id"
   ]
