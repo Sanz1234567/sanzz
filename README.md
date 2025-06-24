@@ -1,2 +1,6 @@
-# sanzz
-Snanzznd
+{
+"moderator": [
+    "{",    
+   "id"
+  ]
+}
